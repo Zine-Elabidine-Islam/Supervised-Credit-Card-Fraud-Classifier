@@ -5,7 +5,7 @@ A supervised deep learning model built from scratch to classify credit card tran
 ## Project Structure
 - **`Supervised_Training_Set.xlsx`**: Training dataset containing mixed normal and fraudulent transaction samples.
 - **`Supervised_CV_Set.xlsx`**: Cross-validation dataset used for unbiased model evaluation.
-- **`fraud_detector.py`**: The complete end-to-end Python script covering data loading, feature selection, standardization, neural network architecture, training, and loss tracking.
+- **`Code.py`**: The complete end-to-end Python script covering data loading, feature selection, standardization, neural network architecture, training, and loss tracking.
 
 ## Features Used
 The model trains exclusively on behavioral and numerical attributes to prevent ID memorization overfitting:
